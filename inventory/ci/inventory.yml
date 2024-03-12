@@ -1,0 +1,11 @@
+[jenkins]
+172.31.11.57 ansible_ssh_user='ubuntu'
+
+[nginx]
+172.31.6.96 ansible_ssh_user='ec2-user'
+
+[sonarqube]
+172.31.4.119 ansible_ssh_user='ubuntu'
+
+[artifact_repository]
+172.31.6.204 ansible_ssh_user='ubuntu'
